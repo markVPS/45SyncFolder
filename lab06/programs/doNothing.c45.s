@@ -1,0 +1,2 @@
+@immediately halt
+halt
